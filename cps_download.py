@@ -30,8 +30,8 @@ Purpose:
 #                         #
 # ----------------------- #
 
-out_dir_f = '/Users/traviscyronek/Documents/data/bls/cps/files_raw/'
-out_dir_d = '/Users/traviscyronek/Documents/data/bls/cps/dicts/'
+out_dir_f = '~/cps/files_raw/'
+out_dir_d = '~/cps/dicts/'
 
 
 # ------------------- #
