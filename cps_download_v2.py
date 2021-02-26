@@ -12,7 +12,7 @@ import requests
 
 
 # user inputs
-save_loc = '/Users/UserName/Downloads/'
+save_loc = '~/Downloads/'
 
 
 def downloader(file_type, save_loc):
