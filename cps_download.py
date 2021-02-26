@@ -2,7 +2,6 @@
 File:   cps_download.py
 Author: Travis Cyronek
 Date:   28 May 2018
-
 Purpose:
         To download and rename monthly CPS files. A big annoyance is that the
         BLS has changed the naming convention on the path name for the files
@@ -21,6 +20,9 @@ Purpose:
         terminal command: one may use any technique to do the unpacking, and
         should be the only place this scraper would give you a headache. Some
         of the code has been adapted from Tom Augspurger's PyCPS module.
+        
+NOTE (2020-09-15): THIS CODE IS DEPRECATED BECAUSE OF CHANGES TO THE NBER
+WEBSITE. PLEASE USE cps_download_v2.py.
 """
 
 
