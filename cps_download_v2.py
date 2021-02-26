@@ -12,6 +12,7 @@ import requests
 
 
 # user inputs
+file_type = 'csv'
 save_loc = '~/Downloads/'
 
 
