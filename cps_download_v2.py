@@ -12,7 +12,7 @@ import requests
 
 
 # user inputs
-save_loc = '/users/traviscyronek/dropbox/data/bls/cps/csv/'
+save_loc = '/Users/UserName/Downloads/'
 
 
 def downloader(file_type, save_loc):
